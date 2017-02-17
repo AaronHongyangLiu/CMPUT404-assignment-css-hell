@@ -21,15 +21,18 @@ Paragraphs:
 - first line is indented
 - all the texts are moved to the center of the page
     
- Headers:
-    -text are Italic, bold and centered
-    -background are changed to gray
+Headers:
+
+- text are Italic, bold and centered
+- background are changed to gray
     
- Images:
-    -images are moved to the center of the page
+Images:
+
+- images are moved to the center of the page
     
- Colour Scheme:
-   -the background is changed to yellowish paper-like image.
+Colour Scheme:
+
+- the background is changed to yellowish paper-like image.
 
 License/Copyright
 =================
