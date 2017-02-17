@@ -15,19 +15,19 @@ git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 Changes in Part1
 ================
 
-# Paragraphs: 
+ Paragraphs: 
     ## font has been changed to "Comic Sans MS"
     ## first line is indented
     ## all the texts are moved to the center of the page
     
-# Headers:
+ Headers:
     ## text are Italic, bold and centered
     ## background are changed to gray
     
-# Images:
+ Images:
     ## images are moved to the center of the page
     
-#Colour Scheme:
+ Colour Scheme:
     ## the background is changed to yellowish paper-like image.
 
 License/Copyright
