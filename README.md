@@ -16,19 +16,19 @@ Changes in Part1
 ================
 
  Paragraphs: 
-    ## font has been changed to "Comic Sans MS"
-    ## first line is indented
-    ## all the texts are moved to the center of the page
+    1. font has been changed to "Comic Sans MS"
+    2. first line is indented
+    3. all the texts are moved to the center of the page
     
  Headers:
-    ## text are Italic, bold and centered
-    ## background are changed to gray
+    1. text are Italic, bold and centered
+    2. background are changed to gray
     
  Images:
-    ## images are moved to the center of the page
+    1. images are moved to the center of the page
     
  Colour Scheme:
-    ## the background is changed to yellowish paper-like image.
+    1. the background is changed to yellowish paper-like image.
 
 License/Copyright
 =================
