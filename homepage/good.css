@@ -1,0 +1,200 @@
+.upper{
+    padding: 15px;
+    background-image: url("Wooden.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    display: block;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.lower{
+    padding: 15px;
+    background-image: url("Wooden.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    display: block;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    position: relative;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+
+.header {
+    margin: 0;
+    font-size: 500%;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    padding: 20px;
+    text-align: center;
+    background-image: url("headerBackground.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: antiquewhite;
+}
+.navigation_div{
+    padding-top: 0.5em;
+    text-align: center;
+    background-image: url("bar.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.navigation_bottom{
+    padding: 3px;
+    background-color: #000;
+}
+ul.navigation_list {
+    list-style-type: none;
+    display: block;
+}
+
+li.navigation_item{
+    display: inline;
+    text-align: center;
+
+}
+
+#clicked{
+    background-color: #000;
+}
+
+.triangle{
+    text-align: center;
+    border-right: 5px solid transparent;
+    border-left: 5px solid transparent;
+    border-bottom: 5px solid blue;
+    width: 0;
+    height: 0;
+    margin: 0;
+    position: relative;
+}
+
+li.navigation_item a {
+    padding-bottom: 0.1em;
+    padding-top: 0.4em;
+    padding-left: 5%;
+    padding-right: 5%;
+    color: white;
+    text-decoration: none;
+}
+
+li.navigation_item :hover{
+    border: solid #000;
+    font-size: 110%;
+}
+
+
+.content{
+    width: 80%;
+}
+
+.side {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    text-align: center;
+    background-color: #f2f2f2;
+    width: 20%;
+}
+
+
+
+.side ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+.side ul li h4{
+    margin-top: 30%;
+    color: #0096fc;
+}
+
+.side h3:first-letter{
+    font-size: 200%;
+}
+
+.who div img{
+    height: 20em;
+}
+
+.who div{
+    margin: 0;
+    flex-wrap: nowrap;
+    display: flex;
+}
+
+.who div .article{
+    text-align: left;
+    display: block;
+    font-family: Georgia, serif;
+    width: inherit;
+}
+
+.article ul li h4{
+    margin-bottom: 0;
+}
+.date{
+    text-align: right;
+}
+.article ul li p{
+    padding-bottom: 0.5em;
+    padding-right: 0.5em;
+}
+
+#two div .side{
+    background-color: transparent;
+    width: 8%;
+}
+
+#three div .side{
+    background-color: transparent;
+    width: 8%;
+}
+
+#three div .article{
+    width: 100%;
+}
+
+.who div .article h2{
+    font-size: 250%;
+    margin-bottom: 5%;
+}
+
+.who div .article p{
+    margin:0
+}
+
+
+.main{
+    flex-wrap: nowrap;
+    height: 100%;
+    display: inline-flex;
+    text-align: center;
+    position: relative;
+    width: 100%;
+}
+
+table{
+    text-align: center;
+}
+
+body{
+    position: relative;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+
+.back_button{
+    position: fixed;
+    right: 10px;
+    bottom: 40px;
+    width: 50px;
+    height: 50px;
+
+}
+
+.back_button img{
+    max-height: 50px;
+    opacity: 50;
+}

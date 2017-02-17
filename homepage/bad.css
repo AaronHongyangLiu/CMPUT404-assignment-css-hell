@@ -1,0 +1,105 @@
+body{
+    background-image: url("badbackground.jpg");
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size:150%;
+}
+
+
+
+.header{
+    color: blue;
+    font-size: 500%;
+    text-align: center;
+}
+
+.navigation_div{
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    text-align: center;
+    background-color: red;
+}
+ul.navigation_list {
+    list-style-type: none;
+    display: block;
+}
+li.navigation_item{
+    display: inline;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.back_button{
+    position: fixed;
+    right: 10px;
+    bottom: 20px;
+    width: 50px;
+    height: 50px;
+
+}
+.back_button img{
+    max-height: 50px;
+    opacity: 50;
+}
+
+.main{
+    display: inline-flex;
+    width: 100%;
+}
+
+.side {
+    text-align: center;
+    background-color: white;
+    width: 20%;
+}
+.side ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.who{
+    margin: 0;
+}
+
+#one{
+    color: pink;
+}
+
+#one div {
+    display: flex;
+    flex-wrap: nowrap;
+}
+#one div img {
+    height: 10em;
+    display: flex;
+}
+#one div .article{
+    display: block;
+    max-height: 50%;
+}
+
+#two {
+    color: red;
+}
+#two div{
+    display: flex;
+}
+#two div .side{
+    width: 0%;
+    background-color: transparent;
+}
+#two div .article ul li p{
+    margin-top: 0;
+}
+
+#three {
+    color: yellow;
+}
+#three div{
+    display: flex;
+}
+
+#three div .side{
+    width: 0%;
+    background-color: transparent;
+}

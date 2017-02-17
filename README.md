@@ -12,6 +12,24 @@ Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
+Changes in Part1
+================
+
+Paragraphs: 
+    #1 font has been changed to "Comic Sans MS"
+    #2 first line is indented
+    #3 all the texts are moved to the center of the page
+    
+Headers:
+    #1 text are Italic, bold and centered
+    #2 background are changed to gray
+    
+Images:
+    #1 images are moved to the center of the page
+    
+Colour Scheme:
+    # the background is changed to yellowish paper-like image.
+
 License/Copyright
 =================
 
